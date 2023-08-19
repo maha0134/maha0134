@@ -14,7 +14,7 @@
 
 ---
 
-## Projects done for Clients 🚀
+## Projects for Clients 🚀
 
 ### Hang10Lit iOS application (Contract job via Upwork) -> SwiftUI + Firebase + Google Books API
 A native iOS app to bring together students and educators by inculcating healthy reading habits using tracking of reading sessions, reflections, reading groups and much more.
