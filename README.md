@@ -1,6 +1,6 @@
 # AKSHAY MAHAJAN 🚀
 
-## iOS Developer 📱 | Ottawa, ON 📍
+## iOS Developer 📱 | Toronto, ON 📍
 
 📧 | [LinkedIn](https://www.linkedin.com/in/akshay-mahajan-1b5508188/) 👨‍💼 | [Portfolio](https://portfolio-akshay-mahajan.netlify.app/)
 
