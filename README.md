@@ -1,6 +1,6 @@
 # AKSHAY MAHAJAN 🚀
 
-## iOS Developer 📱 | Web Developer 🖥️ | Canada 📍
+## Mobile Apps Developer 📱 | Web Developer 🖥️ | Canada 📍
 
 📧 | [LinkedIn](https://www.linkedin.com/in/akshay-mahajan-1b5508188/) 👨‍💼 | [Portfolio](https://portfolio-akshay-mahajan.netlify.app/)
 
