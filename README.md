@@ -1,6 +1,6 @@
 # AKSHAY MAHAJAN 🚀
 
-## Mobile Apps Developer 📱 | Web Developer 🖥️ | Canada 📍
+## Mobile Apps Developer 📱 | Web Developer 🖥️ | France 📍
 
 📧 | [LinkedIn](https://www.linkedin.com/in/akshay-mahajan-1b5508188/) 👨‍💼 | [Portfolio](https://portfolio-akshay-mahajan.netlify.app/)
 
@@ -11,6 +11,9 @@
 **Diploma in Mobile Application Design & Development, Algonquin College, Ottawa**
 
 **Bachelors in Technology - Electronics & Communication Engg., SMVD University, India**
+
+---
+# Freelance Flutter developer for Uobo.ca
 
 ---
 
