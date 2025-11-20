@@ -13,8 +13,9 @@
 **Bachelors in Technology - Electronics & Communication Engg., SMVD University, India**
 
 ---
-# Freelance Flutter developer for Uobo.ca
-
+# Flutter developer for Uobo.ca
+Check out the uobo app on the [Play store](https://play.google.com/store/apps/details?id=com.uobo.uobo) or the [App store](https://apps.apple.com/ca/app/uobo/id6478088174)
+Website: [Uobo](https://app.uobo.ca)
 ---
 
 ## [iOS Projects for Clients 🚀](https://portfolio-akshay-mahajan.netlify.app/#portfolio)
