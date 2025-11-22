@@ -1,6 +1,6 @@
 # AKSHAY MAHAJAN 🚀
 
-## Mobile Apps Developer 📱 | Web Developer 🖥️ | France 📍
+## Mobile Apps Developer 📱 | Web Developer 🖥️ | India 📍
 
 📧 | [LinkedIn](https://www.linkedin.com/in/akshay-mahajan-1b5508188/) 👨‍💼 | [Portfolio](https://portfolio-akshay-mahajan.netlify.app/)
 
@@ -13,7 +13,7 @@
 **Bachelors in Technology - Electronics & Communication Engg., SMVD University, India**
 
 ---
-# Flutter developer for Uobo.ca
+# Flutter and Full Stack developer for Uobo.ca
 Check out the uobo app on the [Play store](https://play.google.com/store/apps/details?id=com.uobo.uobo) or the [App store](https://apps.apple.com/ca/app/uobo/id6478088174)
 Website: [Uobo](https://app.uobo.ca)
 ---
