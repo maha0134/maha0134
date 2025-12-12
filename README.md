@@ -80,4 +80,4 @@ Check out my **pinned repositories** for projects and experiments.
 ## 🤝 Let’s Connect
 
 I’m open to iOS developer roles, freelance projects, and collaborations.  
-Feel free to reach out anytime!
+Feel free to reach out anytime via my LinkedIn.
