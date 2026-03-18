@@ -10,8 +10,6 @@
 
 I’m a Mobile Developer focused on building **production-ready iOS apps** using **SwiftUI**, **Firebase**, and modern Apple frameworks. I’ve delivered client apps end-to-end, contributed to real-world Flutter and React projects, and enjoy working on products that combine clean UI, scalability, and great user experience.
 
-Currently building multiple **SwiftUI apps** for the App Store and exploring **MapKit**, **HealthKit**, and **WatchOS**.
-
 Check out my medium article [The Ideal TabView Behaviour With SwiftUI Navigation Stack](https://medium.com/better-programming/swiftui-navigation-stack-and-ideal-tab-view-behaviour-e514cc41a029)
 
 ---
@@ -79,5 +77,5 @@ Check out my **pinned repositories** for projects and experiments.
 
 ## 🤝 Let’s Connect
 
-I’m open to iOS developer roles, freelance projects, and collaborations.  
+I’m open to freelance projects, and collaborations.  
 Feel free to reach out anytime via my LinkedIn.
