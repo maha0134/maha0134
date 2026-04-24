@@ -2,7 +2,6 @@
 
 **iOS Developer | Flutter | React.js**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/akshay-mahajan-1b5508188/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-brightgreen)](https://portfolio-akshay-mahajan.netlify.app/)
 
 ---
 
