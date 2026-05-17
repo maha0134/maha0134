@@ -1,13 +1,13 @@
 # **Akshay Mahajan** 🚀
 
-**iOS Developer | Flutter | React.js**  
+**Native iOS Developer**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/akshay-mahajan-1b5508188/)
 
 ---
 
 ## 👋 About Me
 
-I’m a Mobile Developer focused on building **production-ready iOS apps** using **SwiftUI**, **Firebase**, and modern Apple frameworks. I’ve delivered client apps end-to-end, contributed to real-world Flutter and React projects, and enjoy working on products that combine clean UI, scalability, and great user experience.
+I’m a native iOS Developer focused on building **production-ready iOS apps** using **SwiftUI**, **Firebase**, and modern Apple frameworks. I have experience building native iOS apps from scratch for clients. I have also contributed to real-world Flutter and React projects, and enjoy working on products that combine clean UI, scalability, and great user experience.
 
 Check out my medium article [The Ideal TabView Behaviour With SwiftUI Navigation Stack](https://medium.com/better-programming/swiftui-navigation-stack-and-ideal-tab-view-behaviour-e514cc41a029)
 
@@ -43,7 +43,6 @@ A reading-tracker app with goals, timers, favourites, and book discovery.
 
 Real product links:
 
-- **[Android App](https://play.google.com/store/apps/details?id=com.uobo.uobo)**
 - **[iOS App](https://apps.apple.com/ca/app/uobo/id6478088174)**
 - **Web App:** https://app.uobo.ca
 
@@ -57,7 +56,7 @@ Revamped mobile UI + Architecture, added pagination, search/autocomplete, cachin
 **Mobile:** Flutter, Dart  
 **Web:** React.js, JavaScript, Node.js  
 **Cloud:** Firebase, AWS, GCP, Supabase  
-**Tools:** Git, Xcode, VS Code, Postman, Cursor, Antigravity, Claude, Gemini
+**Tools:** Git, Xcode, VS Code, Postman, Cursor, Antigravity, Claude Code
 
 ---
 
